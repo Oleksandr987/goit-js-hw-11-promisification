@@ -1,4 +1,3 @@
-/* eslint-disable no-new */
 /* eslint-disable linebreak-style */
 const delay = (ms) => {
   const promis = new Promise((resolve) => {
